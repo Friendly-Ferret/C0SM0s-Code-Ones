@@ -815,10 +815,10 @@ select {
   
   
     const song8 = new Song(
-      "Take Me Home",
-      "GAWNE",
-      "https://i1.sndcdn.com/artworks-gQ1rYABngxI9-0-t500x500.jpg",
-      "https://file.garden/Zrv1pPC1HzBK0svl/Take%20Me%20Home%204.mp3"
+      "RAWFEAR",
+      "Twenty One Pilots",
+      "https://file.garden/afq5Ev64fk6_cAwz/Twenty_One_Pilots_-_Breach.jpg",
+      "https://file.garden/afq5Ev64fk6_cAwz/RAWFEAR.mp3"
     );
   
     playlist.addSong(song1);
